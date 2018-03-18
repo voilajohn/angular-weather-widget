@@ -1,2 +1,2 @@
-# Angular-App-Skeleton
-An app framework for Angular set up from Sitepoint lessons
+# Angular-Weather-Widget
+An angular app from SitePoint Lessons for a weather widget.
